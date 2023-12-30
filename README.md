@@ -8,5 +8,3 @@ RPS_game.py: Provides the game logic, opponents' strategies, and a function (pla
 main.py: Runs the game simulations and tests the AI player against various opponents.
 
 
-Project 2 - CNN - Cat-Dog Classifier using Neural Networks
-Developed a convolutional neural network that learns to differentiate between cat and dog images through extensive training on diverse, augmented datasets, enhancing its ability to generalize and classify new, unseen images accurately.
